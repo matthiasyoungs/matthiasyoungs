@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @matthiasyoungs
-- 👀 I'm trying to learn more about machine learning.
-- 🌱 I’m currently learning Neural Networks.
-- 💞️ I’m open to collaboration.
+👋 Hi, I’m @matthiasyoungs
+
+# Current Interests
+- Machine Learning
+- Predictive Analytics
+- Mathematics
+
+*I’m open to collaboration.*
 
 <!---
 matthiasyoungs/matthiasyoungs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
